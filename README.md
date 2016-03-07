@@ -1,6 +1,6 @@
 *Name here* Foss Tracker
 =========================================================
-*Name here* FOSS tracker is a tool used to aggregate vulnerability data and provide real-time updates on vulnerabilities in FOSS packages, removing the hassle of manual look-up and maintenence/patching of FOSS software.  We intend to leverage the vFeed Python API as well as the vFeed.db of Vuln. and Threat databases.  
+*Name here* FOSS tracker is a tool used provide real-time updates on vulnerabilities in FOSS packages, removing the hassle of manual look-up and facilitating maintenence/patching of FOSS software.  We intend to leverage the vFeed Python API to aggregate vulnerability data and mitigation data into a unified database.
 
 **The rest of the text is borrowed from the vFeed readme**
 
